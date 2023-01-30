@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm Ahmad Fadillah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Daffa Abdurrahman Jatmiko <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student;Front+end+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
@@ -29,9 +29,13 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
+   &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Java" src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
+  </a>
 </p>
 
-### 👉 Frontend Development
+### 👉 Backend Development
 <p align="left"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -49,6 +53,10 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-%2300C4CC.svg?style=flat&logo=react&logoColor=white"/>
   </a>
+   &emsp;
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-%2300C4CC.svg?style=flat&logo=react&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -57,29 +65,11 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
-      &emsp;
-  <a href="#">
-  	<img alt="Figma" src="https://img.shields.io/badge/Figma-%111.svg?style=flat&logo=Figma&logoColor=white"/>
-  </a>
- </p>
+
 
  ### 👉 Software & Tools
  
 <p>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
