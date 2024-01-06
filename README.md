@@ -3,7 +3,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student;Backend+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Student from Sumatera Institute of Technology. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
+<h4 align="center">A prospective Software Engineer with a focus on Backend Development, I am currently a Computer 
+Science student at Institut Teknologi Sumatera. While my primary interest lies in software engineering 
+and backend development, I have a deep understanding of additional skills closely related to these 
+areas, such as System Design, Database Optimization, and API development. I have applied these skills 
+in practical scenarios through various projects related to Backend Development. My academic journey 
+has provided me with a strong foundation, and my commitment to continuous learning reflects my 
+dedication to making a positive impact in the ever-evolving field of technology.</h4>
 <br>
 
 ## 🛠️ My Skills
