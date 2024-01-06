@@ -9,7 +9,6 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-
 <p align="left"> 
   &emsp; 
   <a href="https://golang.org/" target="_blank"> 
@@ -30,6 +29,10 @@
    &emsp;
    <a href="https://www.oracle.com/java/" target="_blank">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
+  </a>
+   &emsp;
+   <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-%777BB4.svg?style=flat&logo=php&logoColor=white"/>
   </a>
 </p>
 
@@ -59,6 +62,8 @@
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white"></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
 </p>
