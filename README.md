@@ -44,6 +44,14 @@ dedication to making a positive impact in the ever-evolving field of technology.
 
 ### 👉 Backend Development
 <p align="left"> 
+   &emsp;
+  <a href="https://gin-gonic.com/" target="_blank"> 
+    <img alt="Gin" src="https://img.shields.io/badge/Gin-%23FF2D20.svg?logo=go&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://gofiber.io/" target="_blank"> 
+   <img alt="Fiber" src="https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white">
+  </a>
   &emsp; 
   <a href="https://laravel.com/" target="_blank"> 
    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">
@@ -56,10 +64,6 @@ dedication to making a positive impact in the ever-evolving field of technology.
   <a href="https://nodejs.org/" target="_blank"> 
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="https://golang.org/" target="_blank"> 
-    <img alt="Golang" src="https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white">
-  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -70,21 +74,23 @@ dedication to making a positive impact in the ever-evolving field of technology.
     <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white"></a>
   &emsp;
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat&logo=postgresql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
+   &emsp;
+  <a href="https://redis.io/" target="_blank"> 
+   <img alt="Redis" src="https://img.shields.io/badge/Redis-%23834D9F.svg?logo=redis&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Software & Tools
  
 <p>
   &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    &emsp;
+  <a href="https://www.docker.com/" target="_blank"> 
+   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
+  </a>
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
